@@ -9,6 +9,8 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
+//JPA estabelecera a ligacao entre a entidade e uma tabela de mesmo nome no banco de dados 
+//onde os dados de objetos desse tipo poderao ser persistidos.
 @Entity
 @Table(name = "tb_user")
 public class User implements Serializable{
