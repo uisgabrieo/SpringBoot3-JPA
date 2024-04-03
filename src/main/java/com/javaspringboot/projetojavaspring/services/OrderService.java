@@ -1,0 +1,27 @@
+package com.javaspringboot.projetojavaspring.services;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.javaspringboot.projetojavaspring.entities.Order;
+import com.javaspringboot.projetojavaspring.repositories.OrderRepository;
+
+@Service
+public class OrderService {
+	
+	@Autowired
+	//instancia o OrderRepository
+	private OrderRepository orderRepository;
+	
+	public List<Order> findAll(){
+		return orderRepository.findAll();
+	}
+	
+	public Order findById(Long id) {
+		Optional<Order> order = orderRepository.findById(id);
+		return order.get();
+	}
+}
