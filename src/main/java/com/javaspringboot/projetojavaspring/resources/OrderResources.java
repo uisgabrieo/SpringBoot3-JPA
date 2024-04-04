@@ -13,7 +13,7 @@ import com.javaspringboot.projetojavaspring.entities.Order;
 import com.javaspringboot.projetojavaspring.services.OrderService;
 
 @RestController
-@RequestMapping(value = "/order")
+@RequestMapping(value = "/orders")
 public class OrderResources {
 
 	@Autowired
