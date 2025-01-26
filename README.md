@@ -28,7 +28,7 @@ O projeto segue uma estrutura simples e organizada para facilitar a compreensão
 
 ```
 src/main/java/
-|-- com.example.project
+|-- com.javaspringboot.projetojavaspring
     |-- configuration/      # Criação das entidades fictícias
     |-- resource/           # Contêm os controladores REST
     |-- entities/           # Contêm as entidades do banco de dados
