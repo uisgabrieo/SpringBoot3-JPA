@@ -1,8 +1,8 @@
 # SpringBoot3-JPA (Projeto Back-End)
 
-Este projeto foi desenvolvido como parte dos meus estudos iniciais em Spring e JPA, realizado durante um curso na plataforma Udemy. Ele simula um sistema de gerenciamento de usuários, pedidos, produtos e categorias, implementando conceitos fundamentais de desenvolvimento back-end com Java e o framework Spring, utilizando o JPA para a persistência de dados.
+Este projeto foi desenvolvido como parte dos meus estudos iniciais em Spring e JPA, realizado durante o curso Java COMPLETO Programação Orientada a Objetos + Projetos do professor Nelio Alves na plataforma Udemy.
 
-Foi desenvolvido no curso Java COMPLETO Programação Orientada a Objetos + Projetos; Prof Nelio Alves.
+O sistema simula um gerenciamento de usuários, pedidos, produtos e categorias, implementando conceitos fundamentais de desenvolvimento back-end com Java e o framework Spring, utilizando o JPA para a persistência de dados.
 
 ## Tecnologias Utilizadas
 
