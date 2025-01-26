@@ -1,4 +1,4 @@
-# Back-End com Spring e JPA
+# SpringBoot3-JPA (Projeto Back-End)
 
 Este projeto foi desenvolvido como parte dos meus estudos iniciais em Spring e JPA, realizado durante um curso na plataforma Udemy. Ele simula um sistema de gerenciamento de usuários, pedidos, produtos e categorias, implementando conceitos fundamentais de desenvolvimento back-end com Java e o framework Spring, utilizando o JPA para a persistência de dados.
 
